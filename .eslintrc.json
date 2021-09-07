@@ -7,12 +7,15 @@
 		"airbnb-base",
 		"plugin:prettier/recommended",
 		"prettier"
+		
 	],
 	"plugins": [
 		"babel",
 		"prettier"
+		
 	],
 	"rules": {
+		
 		"no-restricted-syntax": [
       "error",
       "LabeledStatement",
